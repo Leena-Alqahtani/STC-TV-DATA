@@ -19,9 +19,10 @@ The goal is to analyze user behavior on the STC TV platform based on content typ
 
 ## 🧰 Tools Used
 
-- Python
-- pandas
-- numpy
+- Python (for data cleaning and analysis)
+- pandas, numpy
+- **Excel** (for creating visual charts and visualizations)
+
 
 ---
 
