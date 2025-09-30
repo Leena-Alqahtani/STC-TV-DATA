@@ -52,7 +52,7 @@ The goal is to analyze user behavior on the STC TV platform based on content typ
 
 Here are the key visualizations from the analysis:
 
-![Product Analysis](images/Product_Analysis.png)
+![Product Analysis](images/Product_Analysis..png)
 
 ![Sales Trend](images/Sales_Trend.png)
 
