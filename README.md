@@ -48,6 +48,15 @@ The goal is to analyze user behavior on the STC TV platform based on content typ
 - `stc_analysis.ipynb` — Jupyter Notebook with the full analysis
 - `README.md` — Project description
 
+- ## 📷 Visualizations
+
+Here are the key visualizations from the analysis:
+
+![Product Analysis](images/Product_Analysis.png)
+
+![Sales Trend](images/Sales_Trend.png)
+
+
 ---
 
 ## ✅ Summary
